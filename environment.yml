@@ -1,6 +1,7 @@
 name: diffdock
 channels:
   - pytorch
+  - pyg
   - defaults
 dependencies:
   - blas=1.0
